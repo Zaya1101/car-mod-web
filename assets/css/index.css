@@ -48,6 +48,10 @@ header.masthead h1, header.masthead .h1 {
   }
 }
 
+.showcase {
+  background-color: rgb(146, 12, 12);
+}
+
 .showcase .showcase-text {
   padding: 3rem;
 }
